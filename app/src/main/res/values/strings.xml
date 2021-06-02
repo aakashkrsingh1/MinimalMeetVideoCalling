@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Minimal Meet</string>
+    <string name="aliasHint">Enter your Room Name to Join </string>
+</resources>
